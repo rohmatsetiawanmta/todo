@@ -1,0 +1,5 @@
+{
+  "builds": [{ "src": "package.json", "use": "@vercel/static-build" }],
+  "routes": [{ "src": "/api/.*", "dest": "/api/index.js" }, { "handle": "filesystem" }, { "src": "/(.*)", "use": "@vercel/static" }],
+  "version": 2
+}
