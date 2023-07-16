@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Membeli makanan",
+      "isCompleted": false,
+      "isDeleted": true
+    },
+    {
+      "id": 2,
+      "name": "Mengerjakan tugas",
+      "isCompleted": true,
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "name": "Membersihkan kamar",
+      "isCompleted": false,
+      "isDeleted": true
+    },
+    {
+      "name": "Mengunjungi teman",
+      "isCompleted": true,
+      "isDeleted": false,
+      "id": 4
+    },
+    {
+      "name": "Memotong ayam",
+      "isCompleted": true,
+      "isDeleted": true,
+      "id": 5
+    },
+    {
+      "name": "Membersihkan kamar mandi",
+      "isCompleted": true,
+      "isDeleted": true,
+      "id": 6
+    },
+    {
+      "name": "Membeli bahan makanan",
+      "isCompleted": true,
+      "isDeleted": true,
+      "id": 7
+    },
+    {
+      "name": "Memasak nasi",
+      "isCompleted": false,
+      "isDeleted": true,
+      "id": 8
+    },
+    {
+      "name": "Menonton tutorial",
+      "isCompleted": false,
+      "isDeleted": true,
+      "id": 9
+    },
+    {
+      "name": "Membersihkan ruang tamu",
+      "isCompleted": true,
+      "isDeleted": false,
+      "id": 10
+    }
+  ]
+}
